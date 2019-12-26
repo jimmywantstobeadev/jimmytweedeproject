@@ -1,0 +1,8 @@
+{
+    "prefix": "-",
+
+    "activity": {
+        "streaming": true,
+        "game": "-help"
+    }
+}
